@@ -243,20 +243,6 @@ me = VishnuChaithanya()
 <!--    [UPDATE] Add your actual certifications below           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| 🎖️ Certification | 🏛️ Issuer | 📅 Year |
-|:---|:---|:---:|
-| <!-- [UPDATE] e.g. Python for Data Science | Coursera / IBM | 2024 --> | | |
-| <!-- [UPDATE] e.g. SQL for Data Analysis | LinkedIn Learning | 2024 --> | | |
-| <!-- [UPDATE] e.g. Power BI Fundamentals | Microsoft Learn | 2024 --> | | |
-| <!-- [UPDATE] e.g. Machine Learning Specialization | Coursera / Andrew Ng | 2024 --> | | |
-
-</div>
-
-> 💡 *Add your actual certifications from platforms like Coursera, Kaggle, LinkedIn Learning, or NPTEL.*
 
 ---
 
@@ -271,7 +257,7 @@ me = VishnuChaithanya()
 ```text
 Deep Learning & Neural Networks     ██████████░░░░░░░░░░   50%
 Advanced SQL & Database Design      ████████████░░░░░░░░   60%
-Power BI DAX & Advanced Reports     ████████░░░░░░░░░░░░   40%
+Power BI DAX & Advanced Reports     ████████░░░░░░░░░░░░   50%
 Machine Learning Algorithms         ██████████████░░░░░░   70%
 Exploratory Data Analysis (EDA)     ████████████████░░░░   80%
 ```
