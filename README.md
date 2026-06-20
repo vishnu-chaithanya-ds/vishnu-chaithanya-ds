@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vishnu%20Chaithanya&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=58&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Vishnu+Chaithanya!;📊+Aspiring+Data+Analyst;🤖+Machine+Learning+Enthusiast;🐍+Python+%7C+SQL+%7C+Power+BI;🚀+Turning+Raw+Data+into+Real+Insights!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Vishnu+Chaithanya!;📊+Aspiring+Data+Scientist;🤖+Machine+Learning+Enthusiast;🐍+Python+%7C+SQL+%7C+Power+BI;🚀+Turning+Raw+Data+into+Real+Insights!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,24 +34,24 @@
 class VishnuChaithanya:
     def __init__(self):
         self.name       = "Tadipatri Vishnu Chaithanya"
-        self.role       = "Aspiring Data Analyst | Data Science Enthusiast"
-        self.education  = "B.Tech @ A1 Global Institute of Engineering & Technology (JNTUK)"
-        self.location   = "India 🇮🇳"
+        self.role       = "Aspiring Data Scientist | Data Analyst"
+        self.education  = "B.Tech CSE (AI & ML) @ A1 Global Institute of Engineering & Technology (JNTUK)"
+        self.location   = "Anantapur, Andhra Pradesh, India 🇮🇳"
         self.email      = "tadipatrivishnuchaithanya@gmail.com"
         self.portfolio  = "https://vishnuchaithanya.netlify.app/"
 
     def current_focus(self):
         return [
             "📊 Mastering Data Analytics & Visualization",
-            "🤖 Building Machine Learning Models",
-            "🐍 Strengthening Python & SQL skills",
-            "📈 Exploring Deep Learning concepts",
+            "🤖 Building end-to-end Machine Learning pipelines",
+            "🐍 Strengthening Python & SQL fundamentals",
+            "📈 Exploring Deep Learning & Generative AI",
             "🚀 Developing real-world data projects"
         ]
 
     def career_goal(self):
         return """
-        Secure an internship or entry-level role in Data Analytics / Data Science,
+        Secure an internship or entry-level role in Data Science / Data Analytics,
         gain industry experience, and grow into a skilled data professional.
         """
 
@@ -60,9 +60,9 @@ me = VishnuChaithanya()
 
 <img align="right" alt="Data Science GIF" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 **B.Tech Student** at A1 Global Institute of Engineering & Technology *(Affiliated to JNTUK)*
+- 🎓 **B.Tech — CSE (AI & ML)** at A1 Global Institute of Engineering & Technology *(JNTUK Affiliated)* · CGPA: 8.0
 - 📊 Passionate about **turning raw data into actionable insights**
-- 💻 Actively learning **Python · SQL · Power BI · Machine Learning · Deep Learning**
+- 💻 Skilled in **Python · SQL · Power BI · Machine Learning · Statistics**
 - 🏗️ Building projects that demonstrate **real-world analytical problem-solving**
 - 🤝 Open to **internships, collaborations, and open-source contributions**
 - 📫 Reach me at **tadipatrivishnuchaithanya@gmail.com**
@@ -118,61 +118,79 @@ me = VishnuChaithanya()
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🚗 Vehicle Selling Price Prediction
+### 🚗 Vehicle Price Prediction
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/vishnu-chaithanya-ds/selling-price-of-vehicles)
-[![README](https://img.shields.io/badge/README-View-blue?style=for-the-badge)](https://github.com/vishnu-chaithanya-ds/selling-price-of-vehicles#readme)
 
-> A regression-based ML model that predicts vehicle selling prices using historical transaction data.
+> Regression model predicting vehicle selling prices from historical transaction data.
 
 **✅ Highlights:**
-- 🔍 Data cleaning & feature engineering on real-world automotive dataset
-- 📊 In-depth EDA with distribution & outlier analysis
-- 🎯 Ridge Regression with GridSearchCV hyperparameter tuning
-- 📉 Evaluated using MSE and R² Score with 5-Fold Cross Validation
+- 🔍 Data cleaning, EDA & Winsorizer outlier treatment
+- 🎯 Ridge Regression tuned with GridSearchCV
+- 📉 Evaluated via MSE, R² Score & 5-Fold CV
 
-**🔧 Tech Stack:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-![feature--engine](https://img.shields.io/badge/feature--engine-grey?style=flat-square)
+**🔧 Stack:** Python · Pandas · Scikit-Learn · Seaborn · feature-engine
 
 **⚙️ Algorithms:** `Linear Regression` · `Ridge Regression`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🌧️ Next Day Rainfall Prediction
+### 🌧️ Rainfall Prediction
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/vishnu-chaithanya-ds/predicting-next-day-rainfall)
-[![README](https://img.shields.io/badge/README-View-blue?style=for-the-badge)](https://github.com/vishnu-chaithanya-ds/predicting-next-day-rainfall#readme)
 
-> A binary classification model trained on 10 years of Australian weather data to predict next-day rainfall.
+> Binary classifier predicting next-day rainfall from 10 years of Australian weather data.
 
 **✅ Highlights:**
-- 🗂️ Extensive EDA on 10-year Australian meteorological dataset
-- 🗓️ Feature engineering — extracted Year, Month, Day from Date
-- ⚙️ Outlier treatment using Winsorizer, Clipping & Top-Coding
-- 📈 Evaluated using Accuracy Score, Null Accuracy & Overfitting check
+- 🗓️ Feature engineering — Date split into Year/Month/Day
+- ⚙️ Outlier treatment: Winsorize, Clipping, Top-Coding
+- 📈 Accuracy, Null Accuracy & Overfitting check
 
-**🔧 Tech Stack:**
+**🔧 Stack:** Python · NumPy · Scikit-Learn · category_encoders
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![category_encoders](https://img.shields.io/badge/category__encoders-grey?style=flat-square)
+**⚙️ Algorithm:** `Logistic Regression (liblinear)`
 
-**⚙️ Algorithm:** `Logistic Regression (liblinear solver)`
+</td>
+<td width="33%" valign="top">
+
+### 🚙 Car Evaluation
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/vishnu-chaithanya-ds/car-evaluation)
+
+> Decision Tree model classifying car acceptability from key vehicle attributes.
+
+**✅ Highlights:**
+- 🔢 Ordinal Encoding on all categorical features
+- 🌳 Decision Tree trained with Gini Index (`max_depth=3`)
+- ✅ No overfitting — train 78.5% vs test 80.5% accuracy
+
+**🔧 Stack:** Python · Pandas · Scikit-Learn · category_encoders
+
+**⚙️ Algorithm:** `Decision Tree Classifier (Gini Index)`
 
 </td>
 </tr>
 </table>
 </div>
+
+<br/>
+
+### 🐍 Python Repositories
+
+<div align="center">
+
+[![Python Fundamentals](https://img.shields.io/badge/python--fundamentals-View_Repo-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/vishnu-chaithanya-ds/python-fundamentals)
+[![Python Learning](https://img.shields.io/badge/python--learning-View_Repo-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/vishnu-chaithanya-ds/python-learning)
+
+</div>
+
+| Repository | Description |
+|:---|:---|
+| 🐍 **[python-fundamentals](https://github.com/vishnu-chaithanya-ds/python-fundamentals)** | Core Python concepts — data types, control flow, functions, OOP, file handling, and exception handling |
+| 📘 **[python-learning](https://github.com/vishnu-chaithanya-ds/python-learning)** | Hands-on practice notebooks and exercises building toward Data Science & ML readiness |
 
 ---
 
