@@ -60,7 +60,7 @@ me = VishnuChaithanya()
 
 <img align="right" alt="Data Science GIF" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 **B.Tech — CSE (AI & ML)** at A1 Global Institute of Engineering & Technology *(JNTUK Affiliated)* · CGPA: 8.0
+- 🎓 **B.Tech — CSE (AI & ML)** at A1 Global Institute of Engineering & Technology *(JNTUK Affiliated)* · CGPA: 7.5
 - 📊 Passionate about **turning raw data into actionable insights**
 - 💻 Skilled in **Python · SQL · Power BI · Machine Learning · Statistics**
 - 🏗️ Building projects that demonstrate **real-world analytical problem-solving**
@@ -114,6 +114,8 @@ me = VishnuChaithanya()
 ---
 
 ## 🚀 Featured Projects
+
+### 🤖 Machine Learning Projects
 
 <div align="center">
 <table>
@@ -170,6 +172,37 @@ me = VishnuChaithanya()
 **🔧 Stack:** Python · Pandas · Scikit-Learn · category_encoders
 
 **⚙️ Algorithm:** `Decision Tree Classifier (Gini Index)`
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+### 📊 Data Analytics & BI Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 📈 Superstore Sales Performance Dashboard
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/vishnu-chaithanya-ds/superstore-sales-dashboard)
+[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/vishnu-chaithanya-ds/superstore-sales-dashboard)
+
+> Interactive Power BI dashboard analyzing Superstore sales across regions, states, and product categories — built to uncover trends, profitability insights, and YoY growth patterns.
+
+**✅ Highlights:**
+- 💰 Total Sales: **$2.93M** · Total Profit: **$292.45K** · Profit Margin: **10%**
+- 🚀 YoY Sales Growth: **52.96%** across 2023–2025
+- 🗺️ Geographic map — sales distribution across US States
+- 📊 Top subcategory: **Machines ($0.60M)** · Top state: **Nevada ($0.21M)**
+- 🎛️ Interactive slicers — Region filter & Year range slider
+- 📑 4 fully designed pages — Sales Performance · Sales Deep Dive · Customer Analysis · Key Insights
+
+**🔧 Stack:** Power BI · DAX · Power Query · Bing Maps
 
 </td>
 </tr>
