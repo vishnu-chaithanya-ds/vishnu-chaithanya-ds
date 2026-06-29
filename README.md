@@ -185,24 +185,44 @@ me = VishnuChaithanya()
 <div align="center">
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
-### 📈 Superstore Sales Performance Dashboard
+### 📈 Superstore Sales Dashboard
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/vishnu-chaithanya-ds/superstore-sales-dashboard)
 [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/vishnu-chaithanya-ds/superstore-sales-dashboard)
 
-> Interactive Power BI dashboard analyzing Superstore sales across regions, states, and product categories — built to uncover trends, profitability insights, and YoY growth patterns.
+> Interactive Power BI dashboard analyzing Superstore sales across regions, states, and product categories.
 
 **✅ Highlights:**
-- 💰 Total Sales: **$2.93M** · Total Profit: **$292.45K** · Profit Margin: **10%**
+- 💰 Total Sales: **$2.93M** · Profit: **$292.45K** · Margin: **10%**
 - 🚀 YoY Sales Growth: **52.96%** across 2023–2025
-- 🗺️ Geographic map — sales distribution across US States
-- 📊 Top subcategory: **Machines ($0.60M)** · Top state: **Nevada ($0.21M)**
-- 🎛️ Interactive slicers — Region filter & Year range slider
-- 📑 4 fully designed pages — Sales Performance · Sales Deep Dive · Customer Analysis · Key Insights
+- 🗺️ Geographic map — US State sales distribution
+- 📊 Top subcategory: **Machines ($0.60M)**
+- 🎛️ Interactive Region & Year slicers
+- 📑 4 pages — Sales · Deep Dive · Customer · Insights
 
 **🔧 Stack:** Power BI · DAX · Power Query · Bing Maps
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Tesla EV Analytics Dashboard
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/vishnu-chaithanya-ds/tesla-ev-analytics-dashboard)
+[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/vishnu-chaithanya-ds/tesla-ev-analytics-dashboard)
+
+> Interactive Power BI dashboard analyzing Tesla EV deliveries, production, market share, and CO₂ impact across all models and regions from 2015 to 2025.
+
+**✅ Highlights:**
+- 🚗 Total Deliveries: **26M** · Production: **28M**
+- 💰 Avg Selling Price: **$84.91K** · CO₂ Saved: **1.96M tons**
+- 🏆 Top Model: **Model S (5.4M)** · Top Region: **Middle East (6.7M)**
+- 🚀 YoY delivery trend analysis across **2015–2025**
+- 🎛️ Interactive Year · Region · Model slicers
+- 🎥 Includes full screen recording demo
+
+**🔧 Stack:** Power BI · DAX · Power Query · CSV Dataset
 
 </td>
 </tr>
