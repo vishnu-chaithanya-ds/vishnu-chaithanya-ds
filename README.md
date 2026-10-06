@@ -1,26 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2A,35:1E2A78,70:4B2BA3,100:7B61FF&height=260&section=header&text=Vishnu%20Chaithanya&fontSize=62&fontColor=FFD700&fontAlignY=38&desc=DATA%20ANALYST%20%C2%B7%20DATA%20SCIENTIST%20%C2%B7%20MACHINE%20LEARNING&descAlignY=60&descSize=18&descColor=E6E6FA&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2E1065,100:7C3AED&height=250&section=header&text=Vishnu%20Chaithanya&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Data%20Scientist%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=20&descColor=C4B5FD&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FFD700&center=true&vCenter=true&width=780&height=45&lines=Turning+raw+data+into+business+decisions;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning;B.Tech+CSE+(AI+%26+ML)+Graduate+%E2%80%94+2026;Open+to+Data+Analyst+%2F+Data+Science+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=A78BFA&center=true&vCenter=true&width=760&height=40&lines=Turning+raw+data+into+business+decisions;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning;B.Tech+CSE+(AI+%26+ML)+Graduate+%E2%80%94+2026;Open+to+Data+Analyst+%2F+Data+Science+Roles)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/tadipatri-vishnu-chaithanya-52817037b"><img src="https://img.shields.io/badge/LinkedIn-Connect-1E2A78?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
-<a href="https://vishnuchaithanya.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-4B2BA3?style=for-the-badge&logo=googlechrome&logoColor=FFD700"/></a>
-<a href="mailto:tadipatrivishnuchaithanya@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-7B61FF?style=for-the-badge&logo=gmail&logoColor=FFD700"/></a>
+<a href="https://www.linkedin.com/in/tadipatri-vishnu-chaithanya-52817037b"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://vishnuchaithanya.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:tadipatrivishnuchaithanya@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
 
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-FFD700?style=flat-square&labelColor=0B0F2A)
-![Location](https://img.shields.io/badge/BASED_IN-Andhra_Pradesh,_India-4169E1?style=flat-square&labelColor=0B0F2A)
-![Views](https://komarev.com/ghpvc/?username=vishnu-chaithanya-ds&label=PROFILE+VIEWS&color=4B2BA3&style=flat-square&labelColor=0B0F2A)
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22C55E?style=flat-square&labelColor=161B22)
+![Location](https://img.shields.io/badge/BASED_IN-Andhra_Pradesh,_India-8B5CF6?style=flat-square&labelColor=161B22)
+![Views](https://komarev.com/ghpvc/?username=vishnu-chaithanya-ds&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square&labelColor=161B22)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:7B61FF,100:4169E1&height=3" width="100%"/>
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E2A78,100:4B2BA3&height=55&section=header&text=ABOUT%20ME&fontSize=22&fontColor=FFD700&fontAlignY=50" width="100%"/>
+## 👨‍💻 About Me
 
 I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data into clear, decision-ready insights. I build **interactive Power BI dashboards** for business analysis and **end-to-end machine learning pipelines** in Python, from cleaning and EDA to model tuning and validation.
 
@@ -36,32 +34,32 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E2A78,100:4B2BA3&height=55&section=header&text=IMPACT%20AT%20A%20GLANCE&fontSize=22&fontColor=FFD700&fontAlignY=50" width="100%"/>
+## 📈 Impact at a Glance
 
 <div align="center">
 
-![Sales](https://img.shields.io/badge/%242.93M-SALES_ANALYZED-1E2A78?style=for-the-badge&labelColor=0B0F2A&color=1E2A78)
-![Growth](https://img.shields.io/badge/52.96%25-YOY_SALES_GROWTH_FOUND-4B2BA3?style=for-the-badge&labelColor=0B0F2A)
-![Deliveries](https://img.shields.io/badge/26M-EV_DELIVERIES_ANALYZED-7B61FF?style=for-the-badge&labelColor=0B0F2A)
-![Projects](https://img.shields.io/badge/5-DATA_%26_ML_PROJECTS-FFD700?style=for-the-badge&labelColor=0B0F2A&color=B8860B)
+![Sales](https://img.shields.io/badge/SALES_ANALYZED-%242.93M-8B5CF6?style=for-the-badge&labelColor=161B22)
+![Growth](https://img.shields.io/badge/YOY_SALES_GROWTH-52.96%25-8B5CF6?style=for-the-badge&labelColor=161B22)
+![EV](https://img.shields.io/badge/EV_DELIVERIES_ANALYZED-26M-8B5CF6?style=for-the-badge&labelColor=161B22)
+![Projects](https://img.shields.io/badge/DATA_%26_ML_PROJECTS-5-8B5CF6?style=for-the-badge&labelColor=161B22)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E2A78,100:4B2BA3&height=55&section=header&text=TECH%20ARSENAL&fontSize=22&fontColor=FFD700&fontAlignY=50" width="100%"/>
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,mysql,mongodb,pandas,numpy,sklearn,tensorflow,powerbi,jupyter,git,github,vscode&perline=12&theme=dark" alt="Skills"/>
 
-<br/>
+<br/><br/>
 
-![Excel](https://img.shields.io/badge/Excel-1E2A78?style=for-the-badge&logo=microsoftexcel&logoColor=FFD700)
-![SQL](https://img.shields.io/badge/SQL-1E2A78?style=for-the-badge&logo=mysql&logoColor=FFD700)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-4B2BA3?style=for-the-badge&logo=python&logoColor=FFD700)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B2BA3?style=for-the-badge&logo=python&logoColor=FFD700)
-![Colab](https://img.shields.io/badge/Google_Colab-7B61FF?style=for-the-badge&logo=googlecolab&logoColor=FFD700)
+![Excel](https://img.shields.io/badge/Excel-161B22?style=flat-square&logo=microsoftexcel&logoColor=A78BFA)
+![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=mysql&logoColor=A78BFA)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-161B22?style=flat-square&logo=python&logoColor=A78BFA)
+![Seaborn](https://img.shields.io/badge/Seaborn-161B22?style=flat-square&logo=python&logoColor=A78BFA)
+![Colab](https://img.shields.io/badge/Google_Colab-161B22?style=flat-square&logo=googlecolab&logoColor=A78BFA)
 
 </div>
 
@@ -76,7 +74,7 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E2A78,100:4B2BA3&height=55&section=header&text=FEATURED%20PROJECTS&fontSize=22&fontColor=FFD700&fontAlignY=50" width="100%"/>
+## 🚀 Featured Projects
 
 ### 📊 Data Analytics & Business Intelligence
 
@@ -84,7 +82,7 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/vishnu-chaithanya-ds/superstore-sales-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=superstore-sales-dashboard&bg_color=0B0F2A&title_color=FFD700&text_color=E6E6FA&icon_color=7B61FF&border_color=3B3F8C&border_radius=12" width="100%"/></a>
+<a href="https://github.com/vishnu-chaithanya-ds/superstore-sales-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=superstore-sales-dashboard&bg_color=0D1117&title_color=C4B5FD&text_color=E6EDF3&icon_color=8B5CF6&border_color=2E1065&border_radius=12" width="100%"/></a>
 
 **📈 Superstore Sales Performance Dashboard**
 
@@ -99,7 +97,7 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/vishnu-chaithanya-ds/tesla-ev-analytics-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=tesla-ev-analytics-dashboard&bg_color=0B0F2A&title_color=FFD700&text_color=E6E6FA&icon_color=7B61FF&border_color=3B3F8C&border_radius=12" width="100%"/></a>
+<a href="https://github.com/vishnu-chaithanya-ds/tesla-ev-analytics-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=tesla-ev-analytics-dashboard&bg_color=0D1117&title_color=C4B5FD&text_color=E6EDF3&icon_color=8B5CF6&border_color=2E1065&border_radius=12" width="100%"/></a>
 
 **⚡ Tesla EV Analytics Dashboard (2015–2025)**
 
@@ -121,7 +119,7 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 <tr>
 <td width="33%" valign="top">
 
-<a href="https://github.com/vishnu-chaithanya-ds/selling-price-of-vehicles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=selling-price-of-vehicles&bg_color=0B0F2A&title_color=FFD700&text_color=E6E6FA&icon_color=7B61FF&border_color=3B3F8C&border_radius=12" width="100%"/></a>
+<a href="https://github.com/vishnu-chaithanya-ds/selling-price-of-vehicles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=selling-price-of-vehicles&bg_color=0D1117&title_color=C4B5FD&text_color=E6EDF3&icon_color=8B5CF6&border_color=2E1065&border_radius=12" width="100%"/></a>
 
 **🚗 Vehicle Price Prediction**
 
@@ -134,7 +132,7 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 </td>
 <td width="33%" valign="top">
 
-<a href="https://github.com/vishnu-chaithanya-ds/predicting-next-day-rainfall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=predicting-next-day-rainfall&bg_color=0B0F2A&title_color=FFD700&text_color=E6E6FA&icon_color=7B61FF&border_color=3B3F8C&border_radius=12" width="100%"/></a>
+<a href="https://github.com/vishnu-chaithanya-ds/predicting-next-day-rainfall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=predicting-next-day-rainfall&bg_color=0D1117&title_color=C4B5FD&text_color=E6EDF3&icon_color=8B5CF6&border_color=2E1065&border_radius=12" width="100%"/></a>
 
 **🌧️ Next-Day Rainfall Prediction**
 
@@ -147,7 +145,7 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 </td>
 <td width="33%" valign="top">
 
-<a href="https://github.com/vishnu-chaithanya-ds/car-evaluation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=car-evaluation&bg_color=0B0F2A&title_color=FFD700&text_color=E6E6FA&icon_color=7B61FF&border_color=3B3F8C&border_radius=12" width="100%"/></a>
+<a href="https://github.com/vishnu-chaithanya-ds/car-evaluation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=car-evaluation&bg_color=0D1117&title_color=C4B5FD&text_color=E6EDF3&icon_color=8B5CF6&border_color=2E1065&border_radius=12" width="100%"/></a>
 
 **🚙 Car Evaluation**
 
@@ -165,14 +163,14 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 
 <div align="center">
 
-<a href="https://github.com/vishnu-chaithanya-ds/python-fundamentals"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=python-fundamentals&bg_color=0B0F2A&title_color=FFD700&text_color=E6E6FA&icon_color=7B61FF&border_color=3B3F8C&border_radius=12" width="48%"/></a>
-<a href="https://github.com/vishnu-chaithanya-ds/python-learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=python-learning&bg_color=0B0F2A&title_color=FFD700&text_color=E6E6FA&icon_color=7B61FF&border_color=3B3F8C&border_radius=12" width="48%"/></a>
+<a href="https://github.com/vishnu-chaithanya-ds/python-fundamentals"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=python-fundamentals&bg_color=0D1117&title_color=C4B5FD&text_color=E6EDF3&icon_color=8B5CF6&border_color=2E1065&border_radius=12" width="48%"/></a>
+<a href="https://github.com/vishnu-chaithanya-ds/python-learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=python-learning&bg_color=0D1117&title_color=C4B5FD&text_color=E6EDF3&icon_color=8B5CF6&border_color=2E1065&border_radius=12" width="48%"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E2A78,100:4B2BA3&height=55&section=header&text=CERTIFICATIONS&fontSize=22&fontColor=FFD700&fontAlignY=50" width="100%"/>
+## 🏅 Certifications
 
 <div align="center">
 
@@ -190,7 +188,7 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E2A78,100:4B2BA3&height=55&section=header&text=EDUCATION&fontSize=22&fontColor=FFD700&fontAlignY=50" width="100%"/>
+## 🎓 Education
 
 🎓 **Bachelor of Technology (B.Tech), Computer Science & Engineering (AI & ML)**
 🏛️ A1 Global Institute of Engineering and Technology, Markapuram, Andhra Pradesh (JNTUK Affiliated)
@@ -198,16 +196,16 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E2A78,100:4B2BA3&height=55&section=header&text=GITHUB%20ANALYTICS&fontSize=22&fontColor=FFD700&fontAlignY=50" width="100%"/>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vishnu-chaithanya-ds&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&bg_color=0B0F2A&title_color=FFD700&text_color=E6E6FA&icon_color=7B61FF&ring_color=FFD700&border_color=3B3F8C&border_radius=12"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-chaithanya-ds&layout=compact&langs_count=8&bg_color=0B0F2A&title_color=FFD700&text_color=E6E6FA&border_color=3B3F8C&border_radius=12"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vishnu-chaithanya-ds&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=C4B5FD&text_color=E6EDF3&icon_color=8B5CF6&ring_color=8B5CF6&border_color=2E1065&border_radius=12"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-chaithanya-ds&layout=compact&langs_count=8&bg_color=0D1117&title_color=C4B5FD&text_color=E6EDF3&border_color=2E1065&border_radius=12"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vishnu-chaithanya-ds&background=0B0F2A&ring=FFD700&fire=FF9F1C&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=E6E6FA&sideLabels=B8B8FF&dates=9A9AD6&stroke=3B3F8C&border=3B3F8C&borderRadius=12" width="75%"/>
+<img src="https://streak-stats.demolab.com?user=vishnu-chaithanya-ds&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakNum=C4B5FD&currStreakLabel=C4B5FD&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&stroke=2E1065&border=2E1065&borderRadius=12" width="75%"/>
 
 <br/>
 
@@ -215,7 +213,7 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu-chaithanya-ds&bg_color=0B0F2A&color=FFD700&line=7B61FF&point=FFFFFF&area=true&area_color=4169E1&title_color=FFD700&hide_border=true&radius=12" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu-chaithanya-ds&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=38BDF8&area=true&area_color=6D28D9&title_color=C4B5FD&hide_border=true&radius=12" width="95%"/>
 
 <br/>
 
@@ -225,9 +223,9 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E2A78,100:4B2BA3&height=55&section=header&text=CURRENTLY%20LEVELING%20UP&fontSize=22&fontColor=FFD700&fontAlignY=50" width="100%"/>
+## 🎯 Currently Leveling Up
 
-| 🎯 Focus | What I'm building |
+| Focus | What I'm building |
 |:---|:---|
 | 📊 **Advanced SQL** | Joins, window functions, CTEs, query optimization |
 | 📈 **Power BI & DAX** | Advanced measures and storytelling reports |
@@ -236,15 +234,15 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E2A78,100:4B2BA3&height=55&section=header&text=LET'S%20CONNECT&fontSize=22&fontColor=FFD700&fontAlignY=50" width="100%"/>
+## 🤝 Let's Connect
 
 <div align="center">
 
 I'm open to **Data Analyst / Data Science roles and internships**, and to collaborating on data projects.
 
-<a href="https://www.linkedin.com/in/tadipatri-vishnu-chaithanya-52817037b"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-1E2A78?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
-<a href="mailto:tadipatrivishnuchaithanya@gmail.com"><img src="https://img.shields.io/badge/Email-Get_In_Touch-4B2BA3?style=for-the-badge&logo=gmail&logoColor=FFD700"/></a>
-<a href="https://vishnuchaithanya.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-7B61FF?style=for-the-badge&logo=googlechrome&logoColor=FFD700"/></a>
+<a href="https://www.linkedin.com/in/tadipatri-vishnu-chaithanya-52817037b"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:tadipatrivishnuchaithanya@gmail.com"><img src="https://img.shields.io/badge/Email-Get_In_Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://vishnuchaithanya.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -252,4 +250,4 @@ I'm open to **Data Analyst / Data Science roles and internships**, and to collab
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,40:4B2BA3,70:1E2A78,100:0B0F2A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:2E1065,100:0D1117&height=110&section=footer" width="100%"/>
