@@ -67,7 +67,7 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 |:---|:---|
 | 💻 **Languages** | Python (Pandas, NumPy), SQL |
 | 📊 **Analytics & Visualization** | Power BI (DAX, Power Query), Excel, Matplotlib, Seaborn |
-| 🤖 **Machine Learning** | Regression, Classification, Clustering, GridSearchCV, Cross-Validation |
+| 🤖 **Machine Learning & AI** | Regression, Classification, Clustering, GridSearchCV, Cross-Validation, Generative AI |
 | 🗄️ **Databases** | MySQL, MongoDB (NoSQL) |
 | 📐 **Statistics** | Probability, Hypothesis Testing, Statistical Analysis |
 | 🔧 **Workflow** | Jupyter Notebook, VS Code, Git, GitHub |
@@ -174,17 +174,34 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 
 <div align="center">
 
-<img src="assets/LCAT_Certificate.jpg" alt="LCAT Certificate of Participation: Tadipatri Vishnu Chaithanya" width="640"/>
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="assets/Medha_Data_Analytics.jpg"><img src="assets/Medha_Data_Analytics.jpg" alt="Data Analytics Certificate of Achievement, Medha EduTech" width="100%"/></a>
+<br/><b>Data Analytics</b><br/><sub>Certificate of Achievement<br/>Medha EduTech · Jul 2026</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="assets/Medha_Data_Science_GenAI.jpg"><img src="assets/Medha_Data_Science_GenAI.jpg" alt="Data Science Gen AI Certificate of Achievement, Medha EduTech" width="100%"/></a>
+<br/><b>Data Science &amp; Gen AI</b><br/><sub>Certificate of Achievement<br/>Medha EduTech · Jul 2026</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="assets/LCAT_Certificate.jpg"><img src="assets/LCAT_Certificate.jpg" alt="LCAT Certificate of Participation, Labmentix" width="100%"/></a>
+<br/><b>Labmentix Common Aptitude Test</b><br/><sub>Certificate of Participation<br/>Labmentix · Sep 2026</sub>
+</td>
+</tr>
+</table>
+
+<sub>Click any certificate to view it in full size.</sub>
 
 </div>
 
 <br/>
 
-| 🏅 Certification | Issuer | Date | Credential ID |
+| 🏅 Certification | Issued by | Date | Credential ID |
 |:---|:---:|:---:|:---:|
-| **Labmentix Common Aptitude Test (LCAT)**<br/><sub>Certificate of Participation, Internship Common Aptitude Test</sub> | Labmentix | Sept 4, 2026 | `LCAT-2026-16617A` |
-| **Data Science Certification** | Medha EduTech | n/a | n/a |
-| **Data Analytics Certification** | Medha EduTech | n/a | n/a |
+| **Data Analytics**<br/><sub>Certificate of Achievement, in collaboration with Digital Medha</sub> | Medha EduTech, Hyderabad<br/><sub>ISO 9001:2015 · MSME registered</sub> | 27 Jul 2026 | `2602DSS01/4` |
+| **Data Science & Gen AI**<br/><sub>Certificate of Achievement, in collaboration with Digital Medha</sub> | Medha EduTech, Hyderabad<br/><sub>ISO 9001:2015 · MSME registered</sub> | 27 Jul 2026 | `2602DSS01/4` |
+| **Labmentix Common Aptitude Test (LCAT)**<br/><sub>Certificate of Participation, Internship Common Aptitude Test</sub> | Labmentix | 4 Sep 2026 | `LCAT-2026-16617A` |
 
 <br/>
 
@@ -214,10 +231,6 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu-chaithanya-ds&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=38BDF8&area=true&area_color=6D28D9&title_color=C4B5FD&hide_border=true&radius=12" width="95%"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/vishnu-chaithanya-ds/vishnu-chaithanya-ds/output/github-snake-dark.svg" alt="Contribution snake" width="95%"/>
 
 </div>
 
