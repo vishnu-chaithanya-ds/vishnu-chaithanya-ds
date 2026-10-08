@@ -1,174 +1,225 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EFE2B8,100:C7D8EE&height=250&section=header&text=Vishnu%20Chaithanya&fontSize=56&fontColor=1F3A5F&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Data%20Scientist%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=20&descColor=475569&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Vishnu%20Chaithanya&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=58&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=B8860B&center=true&vCenter=true&width=760&height=40&lines=Turning+raw+data+into+business+decisions;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning;B.Tech+CSE+(AI+%26+ML)+Graduate+%E2%80%94+2026;Open+to+Data+Analyst+%2F+Data+Science+Roles)](https://git.io/typing-svg)
-
-<a href="https://www.linkedin.com/in/tadipatri-vishnu-chaithanya-52817037b"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://vishnuchaithanya.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-1F3A5F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:tadipatrivishnuchaithanya@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-B8860B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=👋+Hi%2C+I'm+Vishnu+Chaithanya!;📊+Data+Analyst+%26+Aspiring+Data+Scientist;🤖+Machine+Learning+Enthusiast;🐍+Python+%7C+SQL+%7C+Power+BI;🚀+Turning+Raw+Data+into+Real+Insights!)](https://git.io/typing-svg)
 
 <br/>
 
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-B8860B?style=flat-square&labelColor=1F3A5F)
-![Location](https://img.shields.io/badge/BASED_IN-Andhra_Pradesh,_India-1F3A5F?style=flat-square)
-![Views](https://komarev.com/ghpvc/?username=vishnu-chaithanya-ds&label=PROFILE+VIEWS&color=1F3A5F&style=flat-square)
+<a href="https://www.linkedin.com/in/tadipatri-vishnu-chaithanya-52817037b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/vishnu-chaithanya-ds" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://vishnuchaithanya.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="mailto:tadipatrivishnuchaithanya@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-2EA043?style=flat-square&labelColor=1A1B27"/>
+<img src="https://komarev.com/ghpvc/?username=vishnu-chaithanya-ds&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/vishnu-chaithanya-ds?label=Followers&style=social"/>
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
-I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data into clear, decision-ready insights. I build **interactive Power BI dashboards** for business analysis and **end-to-end machine learning pipelines** in Python, from cleaning and EDA to model tuning and validation.
+```python
+class VishnuChaithanya:
+    def __init__(self):
+        self.name       = "Tadipatri Vishnu Chaithanya"
+        self.role       = "Data Analyst | Aspiring Data Scientist"
+        self.education  = "B.Tech CSE (AI & ML) | A1 Global Institute of Engineering & Technology (JNTUK)"
+        self.cgpa       = 7.5
+        self.location   = "Anantapur, Andhra Pradesh, India 🇮🇳"
+        self.email      = "tadipatrivishnuchaithanya@gmail.com"
+        self.portfolio  = "https://vishnuchaithanya.netlify.app/"
 
-🎯 **Goal:** an entry-level **Data Analyst / Data Scientist** role or internship where I can solve real business problems and grow fast.
+    def strengths(self):
+        return [
+            "📊 Interactive dashboards with Power BI (DAX, Power Query)",
+            "🤖 End-to-end Machine Learning pipelines with Scikit-Learn",
+            "🐍 Data analysis with Python, Pandas & SQL",
+            "🧠 Generative AI & Deep Learning fundamentals",
+        ]
 
-<div align="center">
+    def career_goal(self):
+        return """
+        Secure an entry-level role or internship in Data Analytics / Data Science,
+        gain industry experience, and grow into a skilled data professional.
+        """
 
-| 🎓 Education | 📍 Location | 💼 Seeking | 📧 Contact |
-|:---:|:---:|:---:|:---:|
-| **B.Tech CSE (AI & ML)**<br/>CGPA 7.5 · JNTUK | **Anantapur**<br/>Andhra Pradesh, India | **Data Analyst /**<br/>**Data Scientist** | tadipatrivishnuchaithanya<br/>@gmail.com |
+me = VishnuChaithanya()
+```
 
-</div>
+- 🎓 **B.Tech — CSE (AI & ML)** at A1 Global Institute of Engineering & Technology *(JNTUK Affiliated)* · CGPA: 7.5
+- 📊 I turn **raw data into actionable business insights**
+- 💻 Skilled in **Python · SQL · Power BI · Machine Learning · Statistics**
+- 🏗️ I build projects that show **real-world analytical problem-solving**
+- 📫 Reach me at **tadipatrivishnuchaithanya@gmail.com**
+- 🌐 See more on my **[Portfolio](https://vishnuchaithanya.netlify.app/)**
 
-<br/>
+---
 
 ## 📈 Impact at a Glance
 
 <div align="center">
 
-![Sales](https://img.shields.io/badge/SALES_ANALYZED-%242.93M-B8860B?style=for-the-badge&labelColor=1F3A5F)
-![Growth](https://img.shields.io/badge/YOY_SALES_GROWTH-52.96%25-B8860B?style=for-the-badge&labelColor=1F3A5F)
-![EV](https://img.shields.io/badge/EV_DELIVERIES_ANALYZED-26M-B8860B?style=for-the-badge&labelColor=1F3A5F)
-![Projects](https://img.shields.io/badge/DATA_%26_ML_PROJECTS-5-B8860B?style=for-the-badge&labelColor=1F3A5F)
+![Sales](https://img.shields.io/badge/SALES_ANALYZED-%242.93M-70A5FD?style=for-the-badge&labelColor=1A1B27)
+![Growth](https://img.shields.io/badge/YOY_SALES_GROWTH-52.96%25-38BDAE?style=for-the-badge&labelColor=1A1B27)
+![EV](https://img.shields.io/badge/EV_DELIVERIES_ANALYZED-26M-BF91F3?style=for-the-badge&labelColor=1A1B27)
+![Projects](https://img.shields.io/badge/DATA_%26_ML_PROJECTS-5-00D9FF?style=for-the-badge&labelColor=1A1B27)
 
 </div>
 
-<br/>
+---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack & Skills
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,mysql,mongodb,pandas,numpy,sklearn,tensorflow,powerbi,jupyter,git,github,vscode&perline=12&theme=light" alt="Skills"/>
-
-<br/><br/>
-
-![Excel](https://img.shields.io/badge/Excel-1F3A5F?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1F3A5F?style=flat-square&logo=mysql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1F3A5F?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-1F3A5F?style=flat-square&logo=python&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-1F3A5F?style=flat-square&logo=googlecolab&logoColor=white)
-
-</div>
-
-| Area | Tools & Concepts |
+| Area | Tools |
 |:---|:---|
-| 💻 **Languages** | Python (Pandas, NumPy), SQL |
-| 📊 **Analytics & Visualization** | Power BI (DAX, Power Query), Excel, Matplotlib, Seaborn |
-| 🤖 **Machine Learning & AI** | Regression, Classification, Clustering, GridSearchCV, Cross-Validation, Generative AI |
-| 🗄️ **Databases** | MySQL, MongoDB (NoSQL) |
-| 📐 **Statistics** | Probability, Hypothesis Testing, Statistical Analysis |
-| 🔧 **Workflow** | Jupyter Notebook, VS Code, Git, GitHub |
+| **💻 Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> |
+| **📊 Analytics & Visualization** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/> |
+| **🤖 Machine Learning** | <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> |
+| **🗄️ Databases** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> |
+| **🔧 Tools & Platforms** | <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
+| **📐 Statistics** | Probability · Hypothesis Testing · Statistical Analysis |
 
-<br/>
+---
 
 ## 🚀 Featured Projects
 
-### 📊 Data Analytics & Business Intelligence
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/vishnu-chaithanya-ds/superstore-sales-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=superstore-sales-dashboard&bg_color=FAF7F0&title_color=1F3A5F&text_color=334155&icon_color=B8860B&border_color=E5DCC3&border_radius=12" width="100%"/></a>
-
-**📈 Superstore Sales Performance Dashboard**
-
-- 💰 **$2.93M** sales · **$292K** profit · **10%** margin
-- 🚀 **52.96%** YoY sales growth (2023–2025)
-- 🗺️ US state-level sales map
-- 🎛️ Region & Year slicers for self-service analysis
-- 📑 4 pages: Sales · Deep Dive · Customer · Insights
-
-`Power BI` `DAX` `Power Query`
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/vishnu-chaithanya-ds/tesla-ev-analytics-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=tesla-ev-analytics-dashboard&bg_color=FAF7F0&title_color=1F3A5F&text_color=334155&icon_color=B8860B&border_color=E5DCC3&border_radius=12" width="100%"/></a>
-
-**⚡ Tesla EV Analytics Dashboard (2015–2025)**
-
-- 🚗 **26M** deliveries · **28M** production
-- 💵 Avg price **$84.91K** · CO₂ saved **1.96M tons**
-- 🏆 Top model **Model S (5.4M)** · Top region **Middle East (6.7M)**
-- 🎛️ Year · Region · Model slicers
-- 🎥 Full screen-recording demo included
-
-`Power BI` `DAX` `Power Query`
-
-</td>
-</tr>
-</table>
-
-### 🤖 Machine Learning
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<a href="https://github.com/vishnu-chaithanya-ds/selling-price-of-vehicles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=selling-price-of-vehicles&bg_color=FAF7F0&title_color=1F3A5F&text_color=334155&icon_color=B8860B&border_color=E5DCC3&border_radius=12" width="100%"/></a>
-
-**🚗 Vehicle Price Prediction**
-
-- Winsorizer outlier treatment + EDA
-- **Ridge Regression** tuned with GridSearchCV
-- MSE, R² and 5-fold CV
-
-`Scikit-learn` `feature-engine`
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://github.com/vishnu-chaithanya-ds/predicting-next-day-rainfall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=predicting-next-day-rainfall&bg_color=FAF7F0&title_color=1F3A5F&text_color=334155&icon_color=B8860B&border_color=E5DCC3&border_radius=12" width="100%"/></a>
-
-**🌧️ Next-Day Rainfall Prediction**
-
-- 10 years of Australian weather data
-- Date feature engineering + outlier handling
-- **Logistic Regression**, overfitting check
-
-`Scikit-learn` `category_encoders`
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://github.com/vishnu-chaithanya-ds/car-evaluation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=car-evaluation&bg_color=FAF7F0&title_color=1F3A5F&text_color=334155&icon_color=B8860B&border_color=E5DCC3&border_radius=12" width="100%"/></a>
-
-**🚙 Car Evaluation**
-
-- Ordinal encoding of all features
-- **Decision Tree** (Gini, `max_depth=3`)
-- No overfitting: train 78.5% vs test 80.5%
-
-`Scikit-learn` `category_encoders`
-
-</td>
-</tr>
-</table>
-
-### 🐍 Python Foundations
+### 📊 Data Analytics & BI Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/vishnu-chaithanya-ds/python-fundamentals"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=python-fundamentals&bg_color=FAF7F0&title_color=1F3A5F&text_color=334155&icon_color=B8860B&border_color=E5DCC3&border_radius=12" width="48%"/></a>
-<a href="https://github.com/vishnu-chaithanya-ds/python-learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=python-learning&bg_color=FAF7F0&title_color=1F3A5F&text_color=334155&icon_color=B8860B&border_color=E5DCC3&border_radius=12" width="48%"/></a>
+<a href="https://github.com/vishnu-chaithanya-ds/superstore-sales-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=superstore-sales-dashboard&theme=tokyonight&hide_border=true" width="100%"/></a>
 
+### 📈 Superstore Sales Dashboard
+
+> Interactive Power BI dashboard analyzing Superstore sales across regions, states, and product categories.
+
+**✅ Highlights:**
+- 💰 Total Sales: **$2.93M** · Profit: **$292.45K** · Margin: **10%**
+- 🚀 YoY Sales Growth: **52.96%** across 2023–2025
+- 🗺️ Geographic map — US State sales distribution
+- 📊 Top subcategory: **Machines ($0.60M)**
+- 🎛️ Interactive Region & Year slicers
+- 📑 4 pages — Sales · Deep Dive · Customer · Insights
+
+**🔧 Stack:** Power BI · DAX · Power Query · Bing Maps
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/vishnu-chaithanya-ds/tesla-ev-analytics-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=tesla-ev-analytics-dashboard&theme=tokyonight&hide_border=true" width="100%"/></a>
+
+### ⚡ Tesla EV Analytics Dashboard
+
+> Interactive Power BI dashboard analyzing Tesla EV deliveries, production, market share, and CO₂ impact across all models and regions from 2015 to 2025.
+
+**✅ Highlights:**
+- 🚗 Total Deliveries: **26M** · Production: **28M**
+- 💰 Avg Selling Price: **$84.91K** · CO₂ Saved: **1.96M tons**
+- 🏆 Top Model: **Model S (5.4M)** · Top Region: **Middle East (6.7M)**
+- 🚀 YoY delivery trend analysis across **2015–2025**
+- 🎛️ Interactive Year · Region · Model slicers
+- 🎥 Includes full screen recording demo
+
+**🔧 Stack:** Power BI · DAX · Power Query · CSV Dataset
+
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
+
+### 🤖 Machine Learning Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://github.com/vishnu-chaithanya-ds/selling-price-of-vehicles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=selling-price-of-vehicles&theme=tokyonight&hide_border=true" width="100%"/></a>
+
+### 🚗 Vehicle Price Prediction
+
+> Regression model predicting vehicle selling prices from historical transaction data.
+
+**✅ Highlights:**
+- 🔍 Data cleaning, EDA & Winsorizer outlier treatment
+- 🎯 Ridge Regression tuned with GridSearchCV
+- 📉 Evaluated via MSE, R² Score & 5-Fold CV
+
+**🔧 Stack:** Python · Pandas · Scikit-Learn · Seaborn · feature-engine
+
+**⚙️ Algorithms:** `Linear Regression` · `Ridge Regression`
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/vishnu-chaithanya-ds/predicting-next-day-rainfall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=predicting-next-day-rainfall&theme=tokyonight&hide_border=true" width="100%"/></a>
+
+### 🌧️ Rainfall Prediction
+
+> Binary classifier predicting next-day rainfall from 10 years of Australian weather data.
+
+**✅ Highlights:**
+- 🗓️ Feature engineering — Date split into Year/Month/Day
+- ⚙️ Outlier treatment: Winsorize, Clipping, Top-Coding
+- 📈 Accuracy, Null Accuracy & Overfitting check
+
+**🔧 Stack:** Python · NumPy · Scikit-Learn · category_encoders
+
+**⚙️ Algorithm:** `Logistic Regression (liblinear)`
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/vishnu-chaithanya-ds/car-evaluation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=car-evaluation&theme=tokyonight&hide_border=true" width="100%"/></a>
+
+### 🚙 Car Evaluation
+
+> Decision Tree model classifying car acceptability from key vehicle attributes.
+
+**✅ Highlights:**
+- 🔢 Ordinal Encoding on all categorical features
+- 🌳 Decision Tree trained with Gini Index (`max_depth=3`)
+- ✅ No overfitting — train 78.5% vs test 80.5% accuracy
+
+**🔧 Stack:** Python · Pandas · Scikit-Learn · category_encoders
+
+**⚙️ Algorithm:** `Decision Tree Classifier (Gini Index)`
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+### 🐍 Python Repositories
+
+<div align="center">
+
+<a href="https://github.com/vishnu-chaithanya-ds/python-fundamentals"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=python-fundamentals&theme=tokyonight&hide_border=true" width="48%"/></a>
+<a href="https://github.com/vishnu-chaithanya-ds/python-learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu-chaithanya-ds&repo=python-learning&theme=tokyonight&hide_border=true" width="48%"/></a>
+
+</div>
+
+---
 
 ## 🏅 Certifications
 
@@ -203,7 +254,7 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 | **Data Science & Gen AI**<br/><sub>Certificate of Achievement, in collaboration with Digital Medha</sub> | Medha EduTech, Hyderabad<br/><sub>ISO 9001:2015 · MSME registered</sub> | 27 Jul 2026 | `2602DSS01/4` |
 | **Labmentix Common Aptitude Test (LCAT)**<br/><sub>Certificate of Participation, Internship Common Aptitude Test</sub> | Labmentix | 4 Sep 2026 | `LCAT-2026-16617A` |
 
-<br/>
+---
 
 ## 🎓 Education
 
@@ -211,52 +262,86 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 🏛️ A1 Global Institute of Engineering and Technology, Markapuram, Andhra Pradesh (JNTUK Affiliated)
 📅 09/2022 – 04/2026 &nbsp;·&nbsp; ⭐ **CGPA: 7.5**
 
-<br/>
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vishnu-chaithanya-ds&show_icons=true&count_private=true&include_all_commits=true&bg_color=FAF7F0&title_color=1F3A5F&text_color=334155&icon_color=B8860B&ring_color=1F3A5F&border_color=E5DCC3&border_radius=12"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-chaithanya-ds&layout=compact&langs_count=8&bg_color=FAF7F0&title_color=1F3A5F&text_color=334155&border_color=E5DCC3&border_radius=12"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishnu-chaithanya-ds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-chaithanya-ds&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vishnu-chaithanya-ds&background=FAF7F0&ring=B8860B&fire=B8860B&currStreakNum=1F3A5F&currStreakLabel=1F3A5F&sideNums=334155&sideLabels=64748B&dates=64748B&stroke=E5DCC3&border=E5DCC3&borderRadius=12" width="75%"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=vishnu-chaithanya-ds&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=vishnu-chaithanya-ds&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu-chaithanya-ds&bg_color=FAF7F0&color=1F3A5F&line=B8860B&point=1F3A5F&area=true&area_color=E9D8A6&title_color=1F3A5F&hide_border=true&radius=12" width="95%"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu-chaithanya-ds&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
-<br/>
+---
 
-## 🎯 Currently Leveling Up
+## 🎯 Currently Focused On
 
 | Focus | What I'm building |
 |:---|:---|
 | 📊 **Advanced SQL** | Joins, window functions, CTEs, query optimization |
 | 📈 **Power BI & DAX** | Advanced measures and storytelling reports |
 | 🤖 **ML Pipelines** | End-to-end modelling, evaluation, deployment basics |
-| 🧠 **Deep Learning** | Neural networks with TensorFlow, Generative AI fundamentals |
+| 🧠 **Deep Learning & Gen AI** | Neural networks with TensorFlow, Generative AI fundamentals |
 
-<br/>
+---
 
-## 🤝 Let's Connect
+## 🤝 Open to Opportunities
 
 <div align="center">
 
-I'm open to **Data Analyst / Data Science roles and internships**, and to collaborating on data projects.
-
-<a href="https://www.linkedin.com/in/tadipatri-vishnu-chaithanya-52817037b"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:tadipatrivishnuchaithanya@gmail.com"><img src="https://img.shields.io/badge/Email-Get_In_Touch-B8860B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://vishnuchaithanya.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-1F3A5F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-<br/><br/>
-
-*"Without data, you're just another person with an opinion." — W. Edwards Deming*
+| 💡 Area | 📋 Details |
+|:---:|:---|
+| 💼 **Jobs & Internships** | Entry-level Data Analyst / Data Science roles |
+| 🌍 **Open Source** | Contributing to data science & analytics tools |
+| 👥 **Freelance** | Data analysis, visualization & reporting projects |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7D8EE,100:EFE2B8&height=110&section=footer" width="100%"/>
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tadipatri-vishnu-chaithanya-52817037b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:tadipatrivishnuchaithanya@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://vishnuchaithanya.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/vishnu-chaithanya-ds" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> *"Without data, you're just another person with an opinion." — W. Edwards Deming*
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<div align="center">
+  <sub>Made with ❤️ by Vishnu Chaithanya</sub>
+</div>
