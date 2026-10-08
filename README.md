@@ -29,42 +29,19 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-```python
-class VishnuChaithanya:
-    def __init__(self):
-        self.name       = "Tadipatri Vishnu Chaithanya"
-        self.role       = "Data Analyst | Aspiring Data Scientist"
-        self.education  = "B.Tech CSE (AI & ML) | A1 Global Institute of Engineering & Technology (JNTUK)"
-        self.cgpa       = 7.5
-        self.location   = "Anantapur, Andhra Pradesh, India 🇮🇳"
-        self.email      = "tadipatrivishnuchaithanya@gmail.com"
-        self.portfolio  = "https://vishnuchaithanya.netlify.app/"
+I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data into clear, decision-ready insights. I build **interactive Power BI dashboards** for business analysis and **end-to-end machine learning pipelines** in Python, from cleaning and EDA to model tuning and validation.
 
-    def strengths(self):
-        return [
-            "📊 Interactive dashboards with Power BI (DAX, Power Query)",
-            "🤖 End-to-end Machine Learning pipelines with Scikit-Learn",
-            "🐍 Data analysis with Python, Pandas & SQL",
-            "🧠 Generative AI & Deep Learning fundamentals",
-        ]
+🎯 **Goal:** an entry-level **Data Analyst / Data Scientist** role or internship where I can solve real business problems and grow fast.
 
-    def career_goal(self):
-        return """
-        Secure an entry-level role or internship in Data Analytics / Data Science,
-        gain industry experience, and grow into a skilled data professional.
-        """
+<div align="center">
 
-me = VishnuChaithanya()
-```
+| 🎓 Education | 📍 Location | 💼 Seeking | 📧 Contact |
+|:---:|:---:|:---:|:---:|
+| **B.Tech CSE (AI & ML)**<br/>CGPA 7.5 · JNTUK | **Anantapur**<br/>Andhra Pradesh, India | **Data Analyst /**<br/>**Data Scientist** | tadipatrivishnuchaithanya<br/>@gmail.com |
 
-- 🎓 **B.Tech — CSE (AI & ML)** at A1 Global Institute of Engineering & Technology *(JNTUK Affiliated)* · CGPA: 7.5
-- 📊 I turn **raw data into actionable business insights**
-- 💻 Skilled in **Python · SQL · Power BI · Machine Learning · Statistics**
-- 🏗️ I build projects that show **real-world analytical problem-solving**
-- 📫 Reach me at **tadipatrivishnuchaithanya@gmail.com**
-- 🌐 See more on my **[Portfolio](https://vishnuchaithanya.netlify.app/)**
+</div>
 
 ---
 
