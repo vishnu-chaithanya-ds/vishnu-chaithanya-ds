@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Vishnu%20Chaithanya&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=58&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=👋+Hi%2C+I'm+Vishnu+Chaithanya!;📊+Data+Analyst+%26+Aspiring+Data+Scientist;🤖+Machine+Learning+Enthusiast;🐍+Python+%7C+SQL+%7C+Power+BI;🚀+Turning+Raw+Data+into+Real+Insights!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=👋+Hi%2C+I'm+Vishnu+Chaithanya!;📊+Power+BI+%7C+SQL+%7C+Python+Developer;🤖+Machine+Learning+Enthusiast;📈+Data+Analyst+%26+Aspiring+Data+Scientist;🚀+Turning+Raw+Data+into+Real+Insights!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -33,13 +33,13 @@
 
 I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data into clear, decision-ready insights. I build **interactive Power BI dashboards** for business analysis and **end-to-end machine learning pipelines** in Python, from cleaning and EDA to model tuning and validation.
 
-🎯 **Goal:** an entry-level **Data Analyst / Data Scientist** role or internship where I can solve real business problems and grow fast.
+🎯 **Goal:** an entry-level role or internship as a **Power BI Developer**, **SQL Developer**, **Python Developer**, **Data Analyst** or **Data Scientist**, where I can solve real business problems and grow fast.
 
 <div align="center">
 
 | 🎓 Education | 📍 Location | 💼 Seeking | 📧 Contact |
 |:---:|:---:|:---:|:---:|
-| **B.Tech CSE (AI & ML)**<br/>CGPA 7.5 · JNTUK | **Anantapur**<br/>Andhra Pradesh, India | **Data Analyst /**<br/>**Data Scientist** | tadipatrivishnuchaithanya<br/>@gmail.com |
+| **B.Tech CSE (AI & ML)**<br/>CGPA 7.5 · JNTUK | **Anantapur**<br/>Andhra Pradesh, India | **Power BI · SQL · Python Developer**<br/>**Data Analyst / Data Scientist** | tadipatrivishnuchaithanya<br/>@gmail.com |
 
 </div>
 
@@ -281,7 +281,7 @@ I'm a **Computer Science Engineering (AI & ML) graduate** who turns messy data i
 
 | 💡 Area | 📋 Details |
 |:---:|:---|
-| 💼 **Jobs & Internships** | Entry-level Data Analyst / Data Science roles |
+| 💼 **Jobs & Internships** | Entry-level Power BI Developer, SQL Developer, Python Developer, Data Analyst and Data Science roles |
 | 🌍 **Open Source** | Contributing to data science & analytics tools |
 | 👥 **Freelance** | Data analysis, visualization & reporting projects |
 
