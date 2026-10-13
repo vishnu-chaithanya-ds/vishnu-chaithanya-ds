@@ -133,15 +133,15 @@ An interactive dashboard on Tesla deliveries, production, market share and CO₂
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<img src="assets/cert-data-science.jpg" alt="Data Science with Gen AI certificate" width="100%"><br>
+<img src="assets/Medha_Data_Science_GenAI.jpg" alt="Data Science with Gen AI certificate" width="100%"><br>
 <b>Data Science with Gen AI</b><br><sub>Medha EduTech · July 2026</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="assets/cert-data-analytics.jpg" alt="Data Analytics certificate" width="100%"><br>
+<img src="assets/Medha_Data_Analytics.jpg" alt="Data Analytics certificate" width="100%"><br>
 <b>Data Analytics</b><br><sub>Medha EduTech · July 2026</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="assets/cert-lcat.jpg" alt="LCAT certificate of participation" width="100%"><br>
+<img src="assets/LCAT_Certificate.jpg" alt="LCAT certificate of participation" width="100%"><br>
 <b>LCAT – Internship Common Aptitude Test</b><br><sub>Labmentix · Sept 2026 · Certificate of Participation</sub>
 </td>
 </tr>
