@@ -19,12 +19,13 @@ I'm looking for an **entry-level Data Analyst / Data Scientist role or internshi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tadipatri-vishnu-chaithanya-52817037b)
 [![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tadipatrivishnuchaithanya@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download_PDF-B8902F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://vishnuchaithanya.netlify.app/TADIPATRI_VISHNU_CHAITHANYA_Resume.pdf)
+[![Documentation](https://img.shields.io/badge/Project_Documentation-PDF-0A3B30?style=for-the-badge&logo=readthedocs&logoColor=white)](https://vishnuchaithanya.netlify.app/TADIPATRI_VISHNU_CHAITHANYA_Project_Documentation.pdf)
 
 </td>
 </tr>
 </table>
 
-<img src="assets/highlights.png" alt="Highlights: $2.93M sales analysed, 26M EV deliveries analysed, 3 ML models built, 7.5 CGPA" width="100%">
+<img src="assets/highlights.png" alt="Highlights: $2.93M sales analysed, 26M EV deliveries analysed, 6 ML projects built, 7.5 CGPA" width="100%">
 
 <br>
 
@@ -89,9 +90,12 @@ An interactive dashboard on Tesla deliveries, production, market share and CO₂
 
 | Project | What it does | Approach | Code |
 |---|---|---|---|
-| 🚗 **Vehicle Selling Price Prediction** | Predicts vehicle selling prices from historical sales data | Winsorizer outlier treatment, feature engineering, **Ridge Regression** tuned with GridSearchCV, MSE, R² and 5-fold cross-validation | [Repo](https://github.com/vishnu-chaithanya-ds/selling-price-of-vehicles) |
-| 🌧️ **Next-Day Rainfall Prediction** | Binary classifier built on 10 years of Australian weather data | Date feature engineering, outlier treatment (winsorize, clipping, top-coding), **Logistic Regression**, accuracy vs null accuracy and an overfitting check | [Repo](https://github.com/vishnu-chaithanya-ds/predicting-next-day-rainfall) |
+| 🚗 **Vehicle Selling Price Prediction** | Predicts used-vehicle selling prices from specifications, mileage and market value | Winsorizer outlier treatment, label encoding, Linear Regression baseline vs **Ridge Regression** tuned with GridSearchCV, MSE, R² and 5-fold cross-validation | [Repo](https://github.com/vishnu-chaithanya-ds/selling-price-of-vehicles) |
+| 🌧️ **Next-Day Rainfall Prediction** | Binary classifier built on 10 years of Australian weather data | Date feature engineering, RISK_MM dropped to prevent leakage, outlier treatment (winsorize, clipping, top-coding), **Logistic Regression**, accuracy vs null accuracy | [Repo](https://github.com/vishnu-chaithanya-ds/predicting-next-day-rainfall) |
 | 🚙 **Car Evaluation Classifier** | Classifies car acceptability from vehicle attributes | Ordinal encoding, **Decision Tree** (Gini, max_depth 3), train 78.5% vs test 80.5% so no overfitting | [Repo](https://github.com/vishnu-chaithanya-ds/car-evaluation) |
+| 🌸 **Iris Flower Classification** | Predicts iris species from four flower measurements | **KNN (k = 10)**, 80/20 split, confusion matrix heatmap and classification report | Documented |
+| 🌌 **Pulsar Star Detection** | Finds real pulsars among 17,898 signal candidates (only 9% are real) | Winsorizer, StandardScaler, **SVM**, recall-focused evaluation for class imbalance | Documented |
+| ⛽ **Petrol Consumption Prediction** | Predicts petrol consumption across 48 US states | **Decision Tree Regressor** with GridSearchCV (cv = 10): R² 0.20 → 0.344, RMSE 135.89 → 123.05 | Documented |
 
 **Python practice:** [`python-fundamentals`](https://github.com/vishnu-chaithanya-ds/python-fundamentals) (core Python, OOP, file handling) · [`python-learning`](https://github.com/vishnu-chaithanya-ds/python-learning) (practice notebooks toward data science)
 
@@ -133,8 +137,8 @@ An interactive dashboard on Tesla deliveries, production, market share and CO₂
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<img src="assets/Medha_Data_Science_GenAI.jpg" alt="Data Science with Gen AI certificate" width="100%"><br>
-<b>Data Science with Gen AI</b><br><sub>Medha EduTech · July 2026</sub>
+<img src="assets/Medha_Data_Science_GenAI.jpg" alt="Data Science Gen AI certificate" width="100%"><br>
+<b>Data Science Gen AI</b><br><sub>Medha EduTech · July 2026</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <img src="assets/Medha_Data_Analytics.jpg" alt="Data Analytics certificate" width="100%"><br>
