@@ -97,7 +97,7 @@ An interactive dashboard on Tesla deliveries, production, market share and CO₂
 | 🌌 **Pulsar Star Detection** | Finds real pulsars among 17,898 signal candidates (only 9% are real) | Winsorizer, StandardScaler, **SVM**, recall-focused evaluation for class imbalance | Documented |
 | ⛽ **Petrol Consumption Prediction** | Predicts petrol consumption across 48 US states | **Decision Tree Regressor** with GridSearchCV (cv = 10): R² 0.20 → 0.344, RMSE 135.89 → 123.05 | Documented |
 
-**Python practice:** [`python-fundamentals`](https://github.com/vishnu-chaithanya-ds/python-fundamentals) (core Python, OOP, file handling) · [`python-learning`](https://github.com/vishnu-chaithanya-ds/python-learning) (practice notebooks toward data science)
+**Python practice:** [`python-fundamentals`](https://github.com/vishnu-chaithanya-ds/python-fundamentals) (core Python, OOP, file handling) · [`python-learning`](https://github.com/vishnu-chaithanya-ds/python-learning) (practice programs: strings, OOP, mini projects)
 
 <br>
 
