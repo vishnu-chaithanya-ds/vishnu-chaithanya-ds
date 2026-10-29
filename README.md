@@ -2,6 +2,10 @@
 
 <img src="assets/banner.jpg" alt="Tadipatri Vishnu Chaithanya – Data Analyst, Data Scientist, Power BI" width="100%">
 
+<br>
+
+![Open to work](https://img.shields.io/badge/●_OPEN_TO_WORK-Data_Analyst_|_Data_Scientist_|_Internships-12A56B?style=for-the-badge)
+
 </div>
 
 <table>
@@ -12,14 +16,13 @@
 <td valign="middle">
 
 ### Hi, I'm Vishnu 👋
-**Computer Science (AI & ML) graduate** who builds interactive **Power BI dashboards** and **end-to-end machine learning models**.
-I'm looking for an **entry-level Data Analyst / Data Scientist role or internship**.
+**Computer Science (AI & ML) graduate** who turns raw data into **interactive Power BI dashboards** and **tested machine learning models**.
+I'm looking for an **entry-level Data Analyst or Data Scientist role**. I can start quickly and learn fast.
 
+[![Hire me](https://img.shields.io/badge/📩_Hire_me-Email-D14836?style=for-the-badge)](mailto:tadipatrivishnuchaithanya@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-0A3B30?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnuchaithanya.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tadipatri-vishnu-chaithanya-52817037b)
-[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tadipatrivishnuchaithanya@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download_PDF-B8902F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://vishnuchaithanya.netlify.app/TADIPATRI_VISHNU_CHAITHANYA_Resume.pdf)
-[![Documentation](https://img.shields.io/badge/Project_Documentation-PDF-0A3B30?style=for-the-badge&logo=readthedocs&logoColor=white)](https://vishnuchaithanya.netlify.app/TADIPATRI_VISHNU_CHAITHANYA_Project_Documentation.pdf)
 
 </td>
 </tr>
@@ -39,7 +42,16 @@ I'm looking for an **entry-level Data Analyst / Data Scientist role or internshi
 | 🌱 **Learning now** | Artificial Intelligence and Generative AI, including LLMs and deep learning |
 | 📍 **Based in** | Anantapur, Andhra Pradesh, India 🇮🇳 |
 
-My projects follow the full workflow: data cleaning, EDA, feature engineering, modelling, validation and a clear dashboard or write-up, so the results are easy to act on.
+<br>
+
+<img src="assets/h-why.jpg" alt="Why work with me" width="100%">
+
+| | |
+|---|---|
+| 📊 **I build dashboards people use** | Two Power BI dashboards with KPI cards, slicers and maps, covering **$2.93M** in retail sales and **26M** EV deliveries. |
+| 🤖 **I deliver complete projects** | Six ML projects, each taken from raw data to a tested model: cleaning, EDA, features, modelling and evaluation. |
+| 🔍 **I check my own results** | I compare against baselines (null accuracy), test for overfitting, use cross-validation and avoid data leakage. |
+| 📝 **I document clearly** | Every project has a README, and there is a full [project documentation](https://vishnuchaithanya.netlify.app/TADIPATRI_VISHNU_CHAITHANYA_Project_Documentation.pdf) with results and learnings. |
 
 <br>
 
@@ -88,14 +100,14 @@ An interactive dashboard on Tesla deliveries, production, market share and CO₂
 
 <img src="assets/h-ml.jpg" alt="Machine learning projects" width="100%">
 
-| Project | What it does | Approach | Code |
+| Project | What it does | Approach and result | Code |
 |---|---|---|---|
-| 🚗 **Vehicle Selling Price Prediction** | Predicts used-vehicle selling prices from specifications, mileage and market value | Winsorizer outlier treatment, label encoding, Linear Regression baseline vs **Ridge Regression** tuned with GridSearchCV, MSE, R² and 5-fold cross-validation | [Repo](https://github.com/vishnu-chaithanya-ds/selling-price-of-vehicles) |
-| 🌧️ **Next-Day Rainfall Prediction** | Binary classifier built on 10 years of Australian weather data | Date feature engineering, RISK_MM dropped to prevent leakage, outlier treatment (winsorize, clipping, top-coding), **Logistic Regression**, accuracy vs null accuracy | [Repo](https://github.com/vishnu-chaithanya-ds/predicting-next-day-rainfall) |
-| 🚙 **Car Evaluation Classifier** | Classifies car acceptability from vehicle attributes | Ordinal encoding, **Decision Tree** (Gini, max_depth 3), train 78.5% vs test 80.5% so no overfitting | [Repo](https://github.com/vishnu-chaithanya-ds/car-evaluation) |
-| 🌸 **Iris Flower Classification** | Predicts iris species from four flower measurements | **KNN (k = 10)**, 80/20 split, confusion matrix heatmap and classification report | Documented |
-| 🌌 **Pulsar Star Detection** | Finds real pulsars among 17,898 signal candidates (only 9% are real) | Winsorizer, StandardScaler, **SVM**, recall-focused evaluation for class imbalance | Documented |
-| ⛽ **Petrol Consumption Prediction** | Predicts petrol consumption across 48 US states | **Decision Tree Regressor** with GridSearchCV (cv = 10): R² 0.20 → 0.344, RMSE 135.89 → 123.05 | Documented |
+| 🚗 **Vehicle Selling Price Prediction** | Predicts used-vehicle selling prices | Winsorizer outlier treatment, Linear Regression baseline vs **Ridge Regression** tuned with GridSearchCV, MSE, R² and 5-fold cross-validation | [Repo](https://github.com/vishnu-chaithanya-ds/selling-price-of-vehicles) |
+| 🌧️ **Next-Day Rainfall Prediction** | Predicts rain tomorrow from 10 years of weather data | **Logistic Regression**, RISK_MM removed to prevent leakage, three outlier treatments, accuracy checked against null accuracy | [Repo](https://github.com/vishnu-chaithanya-ds/predicting-next-day-rainfall) |
+| 🚙 **Car Evaluation Classifier** | Classifies car acceptability | **Decision Tree** (Gini, depth 3), train 78.5% vs test 80.5% so no overfitting | [Repo](https://github.com/vishnu-chaithanya-ds/car-evaluation) |
+| 🌸 **Iris Flower Classification** | Predicts iris species from flower measurements | **KNN (k = 10)**, confusion matrix and full classification report | [Repo](https://github.com/vishnu-chaithanya-ds/iris-flower-classification-knn) |
+| 🌌 **Pulsar Star Detection** | Finds real pulsars among 17,898 signal candidates (only 9% are real) | **SVM**, four kernels compared, GridSearchCV best test accuracy **98.35%** vs 92.35% baseline; pulsar-class precision 0.93, recall 0.84 | [Repo](https://github.com/vishnu-chaithanya-ds/pulsar-star-detection-svm) |
+| ⛽ **Petroleum Consumption Prediction** | Predicts monthly consumption of 12 petroleum products (2020–2023) | **Random Forest Regressor**, IQR outlier treatment, test **R² 0.913** | [Repo](https://github.com/vishnu-chaithanya-ds/petroleum-consumption-prediction) |
 
 **Python practice:** [`python-fundamentals`](https://github.com/vishnu-chaithanya-ds/python-fundamentals) (core Python, OOP, file handling) · [`python-learning`](https://github.com/vishnu-chaithanya-ds/python-learning) (practice programs: strings, OOP, mini projects)
 
@@ -128,7 +140,7 @@ An interactive dashboard on Tesla deliveries, production, market share and CO₂
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**Statistics:** Probability · Hypothesis testing · Statistical analysis
+**Statistics:** Probability · Hypothesis testing · Pearson correlation
 
 <br>
 
@@ -162,14 +174,28 @@ An interactive dashboard on Tesla deliveries, production, market share and CO₂
 
 <br>
 
+<img src="assets/h-verify.jpg" alt="Verify my work" width="100%">
+
+| Check | Where |
+|---|---|
+| 💻 Code and notebooks | The repositories listed above |
+| 🌐 Live portfolio | [vishnuchaithanya.netlify.app](https://vishnuchaithanya.netlify.app/) |
+| 📄 Detailed write-up of every project | [Project documentation (PDF)](https://vishnuchaithanya.netlify.app/TADIPATRI_VISHNU_CHAITHANYA_Project_Documentation.pdf) |
+| 🏅 Certificates | Shown above, with issuer and date |
+| 💼 Work history and education | [LinkedIn](https://www.linkedin.com/in/tadipatri-vishnu-chaithanya-52817037b) |
+
+<br>
+
 <img src="assets/h-contact.jpg" alt="Let's connect" width="100%">
 
 <div align="center">
 
-**Open to internships, entry-level roles, freelance work, startups and research or open-source data projects.**
+**Hiring for a Data Analyst or Data Scientist role, or have a data project?**
+<br>I'd love to hear from you.
+
+[![Email](https://img.shields.io/badge/📩_tadipatrivishnuchaithanya@gmail.com-D14836?style=for-the-badge)](mailto:tadipatrivishnuchaithanya@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tadipatri-vishnu-chaithanya-52817037b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tadipatrivishnuchaithanya@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A3B30?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnuchaithanya.netlify.app/)
 
 <sub>*"Without data, you're just another person with an opinion."* — W. Edwards Deming</sub>
